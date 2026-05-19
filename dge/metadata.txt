@@ -1,0 +1,7 @@
+"Subject_ID"	"Condition"	"Sex"
+"MB03_0_1"	"MB03_0_1"	"Vehicle"	"Female"
+"MB03_0_2"	"MB03_0_2"	"Vehicle"	"Female"
+"MB03_0_3"	"MB03_0_3"	"Vehicle"	"Female"
+"MB03_aCSF_1"	"MB03_aCSF_1"	"aSCF_media"	"Female"
+"MB03_aCSF_2"	"MB03_aCSF_2"	"aSCF_media"	"Female"
+"MB03_aCSF_3"	"MB03_aCSF_3"	"aSCF_media"	"Female"
